@@ -59,14 +59,14 @@ public class DatabaseSeeder implements CommandLineRunner {
         profile2.setName("User Two");
         profile2.setPhone("098-765-4321");
         profile2.setStreet("456 Avenue");
-        profile2.setCity("Valparaiso");
+        profile2.setCity("Pichilemu");
 
         Profile profile3 = new Profile();
         profile3.setAccount(account3);
         profile3.setName("User Three");
         profile3.setPhone("555-555-5555");
         profile3.setStreet("789 Boulevard");
-        profile3.setCity("Concepcion");
+        profile3.setCity("Curico");
 
         profileRepository.saveAll(Arrays.asList(profile1, profile2, profile3));
     }
