@@ -1,0 +1,9 @@
+{
+  "urls": {
+    "fronted": "https://f0f2-190-110-100-228.ngrok-free.app",
+    "backend-identity": "https://bbaa-190-110-100-228.ngrok-free.app",
+    "backend-catalog": "https://738a-190-110-100-228.ngrok-free.app",
+    "backend-orders": "https://0636-190-110-100-228.ngrok-free.app",
+    "backend-rating": "https://cf08-190-110-100-228.ngrok-free.app"
+  }
+}
