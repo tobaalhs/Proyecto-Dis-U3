@@ -1,0 +1,10 @@
+version: "3"
+agent:
+    authtoken: 2pzjuttqgZIIC93dT4jliDCIvmX_rZtSM9SAH56z6CrxUPGt
+tunnels:
+    backend3:
+        addr: 8083
+        proto: http
+    backend4:
+        addr: 8084
+        proto: http
